@@ -87,6 +87,35 @@ main {
     color: #ffffff;
 }
 
+/* Kemetic Yoga section */
+#kemetic-yoga {
+    margin: 20px auto;
+}
+
+#gen-info,
+#gen-info h2,
+#gen-info h3 {
+    background-color: #1F454E;
+    color: #ffffff;
+
+}
+
+#gen-info-text {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 30px 10px;
+}
+
+#key-points h3 {
+    padding-top: 1em;
+}
+
+#gen-info-video {
+    display: flex;
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #1F454E;
