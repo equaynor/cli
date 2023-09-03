@@ -116,6 +116,18 @@ main {
     width: 100%;
 }
 
+#schedule {
+    padding: 30px 10px;
+}
+
+#schedule h2 {
+    padding-bottom: 20px;
+}
+
+td {
+    padding: 2px 5px 2px 0px;
+}
+
 /* Footer */
 footer {
     background-color: #1F454E;
