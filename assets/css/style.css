@@ -1,0 +1,69 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #3a3a3a;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #1F454E;
+}
+
+/* Header */
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* Main Content */
+
+main {
+    background-color: #F2EDDB;
+    margin-top: 150px;
+    flex: 1 0 auto;
+
+
+}
+
+/* Footer */
+footer {
+    background-color: #1F454E;
+    color: #F2EDDB;
+}
