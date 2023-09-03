@@ -105,13 +105,21 @@ main {
 
 #gen-info-text {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     width: 100%;
     padding: 30px 10%;
 }
 
-#key-points h3 {
-    padding-top: 1em;
+#key-points {
+    display: flex;
+    flex-direction: column;
+}
+
+#key-points i {
+    text-align: center;
+    font-size: 200%;
+    padding: 1em 0 0.5em;
+    color: #ffffff;
 }
 
 #gen-info-video {
