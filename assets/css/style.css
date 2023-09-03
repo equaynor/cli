@@ -160,8 +160,12 @@ td {
     border-radius: 50%;
 }
 
+#about-me-text {
+    padding-bottom: 30px;
+}
+
 #about-me-text p {
-    padding: 20px 0 30px;
+    padding: 20px 0 0;
 }
 
 /* Reviews section */
