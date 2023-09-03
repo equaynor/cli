@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300;400&family=Sulphur+Point:wght@300&display=swap');
+
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
     padding: 0px;
@@ -12,19 +14,25 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
+    font-family: "Sulphur Point", sans-serif;
 }
 
 h1,
 h2,
 h3 {
+    font-family: "Phudu", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #1F454E;
 }
 
+h3 {
+    font-weight: 300;
+}
+
 /* Header */
 header {
-    background-color: #ffffff00;
+    background-color: #F1DDC5;
     padding: 0.5rem 1rem;
     position: fixed;
     z-index: 99;
