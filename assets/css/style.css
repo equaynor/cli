@@ -143,10 +143,9 @@ main {
 }
 
 /* Kemetic Yoga section */
-
-#gen-info,
-#gen-info h2,
-#gen-info h3 {
+#gen-info-text,
+#gen-info-text h2,
+#gen-info-text h3 {
     background-color: #1F454E;
     color: #ffffff;
 
