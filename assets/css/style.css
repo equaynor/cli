@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300;400&family=Sulphur+Point:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Yeseva+One&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
@@ -14,20 +14,23 @@ body {
     display: flex;
     flex-direction: column;
     color: #3a3a3a;
-    font-family: "Sulphur Point", sans-serif;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
 }
 
-h1,
-h2,
-h3 {
-    font-family: "Phudu", sans-serif;
-    text-transform: uppercase;
+h1 {
+    font-family: "Yeseva One", sans-serif;
     letter-spacing: 2px;
     color: #1F454E;
 }
 
+h2,
 h3 {
-    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #1F454E;
 }
 
 /* Header */
