@@ -145,8 +145,6 @@ main {
 /* Kemetic Yoga section */
 .container-ky {
     background-color: #1F454E;
-    display: flex;
-    flex-direction: column;
     width: 100%;
     padding-top: 30px;
     color: #ffffff;
@@ -159,8 +157,6 @@ main {
 
 .key-points-left,
 .key-points-right {
-    display: flex;
-    flex-direction: column;
     padding: 0 10%;
 }
 
@@ -350,7 +346,6 @@ footer {
     }
 
     /* Hero */
-
     .cover-text-1 {
         width: 40%;
         top: 60px;
@@ -362,6 +357,34 @@ footer {
         top: 120px;
         bottom: 380px;
         padding: 0 2.5% 12px;
+    }
+
+    /* Kemetic Yoga section */
+    .key-points-left,
+    .key-points-right {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0 7.5%;
+    }
+
+    .key-points-left>div,
+    .key-points-right>div {
+        width: 75%;
+    }
+
+    .key-points-left>div,
+    .key-points-left h3,
+    .key-points-left p {
+        text-align: start;
+        align-self: flex-start;
+    }
+
+    .key-points-right>div,
+    .key-points-right h3,
+    .key-points-right p {
+        text-align: end;
+        align-self: flex-end;
     }
 
     /* Media query for Laptops and desktops (992px and up) */
