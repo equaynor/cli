@@ -314,8 +314,58 @@ footer {
     color: #ffffff;
 }
 
-/* Media query for Laptops and desktops (992px and up) */
-@media screen and (min-width: 992px) {
-    #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        max-height: 52px;
+        background-color: #F1DDC5;
     }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 280%;
+        margin: 0 0.5rem;
+    }
+
+    /* Main content */
+    main {
+        margin-top: 72px;
+    }
+
+    /* Hero */
+
+    #cover-text-1 {
+        width: 40%;
+        top: 60px;
+        padding: 12px 2.5% 0;
+    }
+
+    #cover-text-2 {
+        width: 40%;
+        top: 120px;
+        bottom: 380px;
+        padding: 0 2.5% 12px;
+    }
+
+    /* Media query for Laptops and desktops (992px and up) */
+    @media screen and (min-width: 992px) {
+        #menu a:hover {
+            border-bottom: 1px solid #3a3a3a;
+        }
