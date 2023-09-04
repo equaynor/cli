@@ -143,37 +143,38 @@ main {
 }
 
 /* Kemetic Yoga section */
-.container-a,
-.container-a h2,
-.container-a h3 {
+.container-ky {
     background-color: #1F454E;
-    color: #ffffff;
-
-}
-
-.container-a {
-    display: flex;
-    justify-content: space-evenly;
-    width: 100%;
-    padding: 30px 10%;
-}
-
-.key-points {
     display: flex;
     flex-direction: column;
+    width: 100%;
+    padding-top: 30px;
+    color: #ffffff;
 }
 
-.key-points i {
-    text-align: center;
+.container-ky h2,
+.container-ky h3 {
+    color: #ffffff;
+}
+
+.key-points-left,
+.key-points-right {
+    display: flex;
+    flex-direction: column;
+    padding: 0 10%;
+}
+
+.key-points-left i,
+.key-points-right i {
     font-size: 200%;
     padding: 1em 0 0.5em;
-    color: #ffffff;
 }
 
 .video-container {
     position: relative;
     overflow: hidden;
     width: 100%;
+    margin-top: 30px;
     padding-top: 56.25%;
     /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
