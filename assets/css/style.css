@@ -237,6 +237,27 @@ td {
     padding: 20px 0 0;
 }
 
+/* Reviews section */
+#reviews {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+#reviews>div,
+#reviews h2 {
+    margin: 30px 10% 0;
+}
+
+#reviews img {
+    width: 50%;
+    border-radius: 50%;
+}
+
+#reviews p {
+    padding-top: 20px;
+}
+
 /* Join the tribe section */
 #join {
     background-color: #ffffff;
@@ -272,27 +293,6 @@ td {
     font-size: 100%;
     margin-top: 20px;
     padding: 8px 32px;
-}
-
-/* Reviews section */
-#reviews {
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 30px;
-}
-
-#reviews>div,
-#reviews h2 {
-    margin: 30px 10% 0;
-}
-
-#reviews img {
-    width: 50%;
-    border-radius: 50%;
-}
-
-#reviews p {
-    padding-top: 20px;
 }
 
 /* Footer */
