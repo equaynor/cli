@@ -240,12 +240,11 @@ td {
 /* Reviews section */
 #reviews {
     display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 30px;
+    flex-direction: column;
+    margin: 30px 10%;
 }
 
-#reviews>div,
-#reviews h2 {
+#reviews>div {
     margin: 30px 10% 0;
 }
 
