@@ -158,12 +158,12 @@ main {
     padding: 30px 10%;
 }
 
-#key-points {
+.key-points {
     display: flex;
     flex-direction: column;
 }
 
-#key-points i {
+.key-points i {
     text-align: center;
     font-size: 200%;
     padding: 1em 0 0.5em;
