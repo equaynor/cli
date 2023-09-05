@@ -462,3 +462,24 @@ footer {
             margin-bottom: 0;
             width: 100%;
         }
+
+        /* Reviews section */
+
+        .container-r {
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+        }
+
+        #reviews h2 {
+            display: none;
+        }
+
+        #reviews img {
+            padding: 0;
+            width: 80%;
+        }
+
+        #reviews p {
+            padding-top: 30px;
+        }
