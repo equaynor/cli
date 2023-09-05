@@ -1,39 +1,25 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# RootnRise
 
 Welcome,
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+RootnRise strives to inform people of color about an ancient egyptian yoga system called Kemetic Yoga. The website is intended to create an online presence for Tasha Quaynor, a certified "Basu" - a teacher of this practice, helping her offer Yoga classes, expand her member base and build a community.
+For the bipoc community it offers the chance to touch upon to their ancestral wisdom, connecting to their african roots, joining their tribe while boosting their health and wellbeing.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **July 26th, 2023**
+## Features
 
-## Codeanywhere Reminders
+### Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+- __Navigation Bar__
 
-`python3 -m http.server`
+  - Fixed at the top of the page, the full responsive navigation bar includes links to the Logo, the Kemetic Yoga, the Classes, the About Me and the Join section and turns into a burger menu when viewed on a mobile device.
+  - This section will allow the user to easily navigate from section to section across all devices without having to scroll through all of the page.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- __The hero image__
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+  - The landing includes a photograph with text overlay to allow the user to see exactly what the website is about.
+  - This section introduces the user to RootnRise with an eye catching animation to grab their attention.
 
-`http_server`
+- __The Kemetic Yoga section__
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+  - This section feature for key information points.
+  - This section introduces the user to RootnRise with an eye catching animation to grab their attention.
