@@ -205,20 +205,13 @@ td {
     color: #ffffff;
 }
 
-#about-me>div {
-    margin: 30px 10% 0;
-}
-
 #about-me h2 {
     color: #ffffff;
 }
 
 #about-me img {
     border-radius: 50%;
-}
-
-#about-me-text {
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
 #about-me-text p {
