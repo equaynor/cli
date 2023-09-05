@@ -21,5 +21,6 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
 
 - __The Kemetic Yoga section__
 
-  - This section feature for key information points.
-  - This section introduces the user to RootnRise with an eye catching animation to grab their attention.
+  - This section features four key information points highlighting the benefits of Kemetic Yoga and why the visitor should engage.
+  - Each point is highlighted by an resonating icon.
+  - Following is a video to give more background information.
