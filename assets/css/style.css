@@ -157,6 +157,10 @@ main {
     color: #ffffff;
 }
 
+.container-ky p {
+    padding-top: .7em;
+}
+
 .key-points-left i,
 .key-points-right i {
     font-size: 200%;
@@ -370,6 +374,11 @@ footer {
         align-self: flex-end;
     }
 
+    .key-points-left i,
+    .key-points-right i {
+        font-size: 240%;
+    }
+
     /* About me section */
     #about-me img {
         width: 50%;
@@ -384,10 +393,12 @@ footer {
     /* Media query for Laptops and desktops (992px and up) */
     @media screen and (min-width: 992px) {
 
+        /* General styles */
         * {
             text-align: left;
         }
 
+        /* Header */
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
         }
@@ -412,14 +423,21 @@ footer {
         }
 
         /* Kemetic Yoga section */
-        .key-points-left,
-        .key-points-right {
-            display: flex;
-            flex-direction: column;
-            width: 100%;
-        }
 
         .key-points-left>div,
         .key-points-right>div {
-            width: 75%;
+            width: 60%;
+        }
+
+        .key-points-left i,
+        .key-points-right i {
+            font-size: 300%;
+        }
+
+        .video-container {
+            background-color: #1F454E;
+        }
+
+        iframe {
+            padding: 0 7.5% 60px;
         }
