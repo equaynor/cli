@@ -222,20 +222,12 @@ td {
 #reviews {
     display: flex;
     flex-direction: column;
-    margin: 30px 10%;
-}
-
-#reviews>div {
-    margin: 30px 10% 0;
 }
 
 #reviews img {
     width: 50%;
     border-radius: 50%;
-}
-
-#reviews p {
-    padding-top: 20px;
+    padding: 30px 0 20px;
 }
 
 /* Join the tribe section */
