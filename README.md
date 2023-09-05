@@ -14,22 +14,22 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
   - Fixed at the top of the page, the full responsive navigation bar includes links to the Logo, the Kemetic Yoga, the Classes, the About Me and the Join section and turns into a burger menu when viewed on a mobile device.
   - This section will allow the user to easily navigate from section to section across all devices without having to scroll through all of the page.
 
-[Nav Bar Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-desktop.png)
+![Nav Bar Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-desktop.png)
 
-[Nav Bar Tablet](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-tablet.png)
+![Nav Bar Tablet](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-tablet.png)
 
-[Nav Bar Mobile](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-mobile.png)
+![Nav Bar Mobile](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-mobile.png)
 
 - __The hero image__
 
   - The landing includes a photograph with text overlay to allow the user to see exactly what the website is about.
   - This section introduces the user to RootnRise with an eye catching animation to grab their attention.
 
-[Hero Image Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-desktop.png)
+![Hero Image Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-desktop.png)
 
-[Hero Image Tablet](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-tablet.png)
+![Hero Image Tablet](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-tablet.png)
 
-[Hero Image Mobile](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-mobile.png)
+![Hero Image Mobile](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-mobile.png)
 
 - __The Kemetic Yoga section__
 
