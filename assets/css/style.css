@@ -399,8 +399,18 @@ footer {
         }
 
         /* Header */
+        header {
+            display: flex;
+            justify-content: space-between;
+        }
+
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
+        }
+
+        /* main */
+        main {
+            margin-top: 72px;
         }
 
         /* Hero */
@@ -482,4 +492,24 @@ footer {
 
         #reviews p {
             padding-top: 30px;
+        }
+
+        /* Join section */
+
+        .class-checkbox {
+            margin: 0;
+        }
+
+        .text-input {
+            width: 50%;
+            height: 45px;
+        }
+
+        .join-button {
+            border-radius: 5px;
+            background-color: #1F454E;
+            color: #fafafa;
+            font-size: 100%;
+            margin-top: 20px;
+            padding: 11.5px 45px;
         }
