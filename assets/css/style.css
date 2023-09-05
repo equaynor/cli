@@ -462,6 +462,10 @@ footer {
             flex-direction: row;
         }
 
+        #about-image {
+            overflow: hidden;
+        }
+
         #about-me-text {
             order: -1;
             align-self: center;
