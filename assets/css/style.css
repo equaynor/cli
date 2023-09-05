@@ -371,13 +371,55 @@ footer {
     }
 
     /* About me section */
-
     #about-me img {
         width: 50%;
     }
 
+    /* Reviews section */
+    #reviews img {
+        width: 40%;
+        padding: 45px 0 30px;
+    }
+
     /* Media query for Laptops and desktops (992px and up) */
     @media screen and (min-width: 992px) {
+
+        * {
+            text-align: left;
+        }
+
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
+        }
+
+        /* Hero */
+        .cover-text-1 {
+
+            top: 60px;
+            width: 35%;
+            min-height: 60px;
+            padding: 12px 5%;
+            right: 0;
+        }
+
+        .cover-text-2 {
+            bottom: 60px;
+            top: auto;
+            width: 35%;
+            max-height: 150px;
+            padding: 20px 5%;
+            left: 0;
+        }
+
+        /* Kemetic Yoga section */
+        .key-points-left,
+        .key-points-right {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .key-points-left>div,
+        .key-points-right>div {
+            width: 75%;
         }
