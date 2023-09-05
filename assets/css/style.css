@@ -196,6 +196,21 @@ main {
     width: 100%;
 }
 
+.table th,
+.table td {
+    text-align: left;
+}
+
+table {
+    align-self: center;
+    padding: 2px;
+    border: 2px solid #1F454E;
+}
+
+.table-positioning {
+    padding-left: 2px;
+}
+
 td {
     padding: 2px 0;
 }
@@ -379,6 +394,15 @@ footer {
         font-size: 240%;
     }
 
+    /* Schedule section */
+    table {
+        padding: 4px;
+    }
+
+    .table-positioning {
+        padding-left: 20px;
+    }
+
     /* About me section */
     #about-me img {
         width: 50%;
@@ -450,6 +474,16 @@ footer {
 
         iframe {
             padding: 0 7.5% 60px;
+        }
+
+        /* Schedule section */
+
+        .table-positioning {
+            padding-left: 30px;
+        }
+
+        table {
+            align-self: flex-start;
         }
 
         /* About Me section */
