@@ -290,6 +290,10 @@ footer {
 @media screen and (min-width: 768px) {
 
     /* Header */
+    header {
+        display: block;
+    }
+
     nav {
         display: block;
         position: relative;
@@ -318,7 +322,11 @@ footer {
 
     /* Main content */
     main {
-        margin-top: 72px;
+        margin-top: 126px;
+    }
+
+    .section-gaps {
+        padding: 60px 7.5%;
     }
 
     /* Hero */
@@ -341,7 +349,6 @@ footer {
         display: flex;
         flex-direction: column;
         width: 100%;
-        padding: 0 7.5%;
     }
 
     .key-points-left>div,
