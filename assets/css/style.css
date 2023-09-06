@@ -241,13 +241,13 @@ td {
     padding: 20px 0 0;
 }
 
-/* Reviews section */
-#reviews {
+/* Testamonials section */
+#testamonials {
     display: flex;
     flex-direction: column;
 }
 
-#reviews img {
+#testamonials img {
     width: 50%;
     border-radius: 50%;
     padding: 30px 0 20px;
@@ -413,8 +413,8 @@ footer {
         width: 50%;
     }
 
-    /* Reviews section */
-    #reviews img {
+    /* Testamonials section */
+    #testamonials img {
         width: 40%;
         padding: 45px 0 30px;
     }
@@ -516,24 +516,24 @@ footer {
             width: 100%;
         }
 
-        /* Reviews section */
+        /* Testamonials section */
 
-        .container-r {
+        .container-t {
             display: flex;
             flex-direction: row;
             gap: 20px;
         }
 
-        #reviews h2 {
+        #testamonials h2 {
             display: none;
         }
 
-        #reviews img {
+        #testamonials img {
             padding: 0;
             width: 200px;
         }
 
-        #reviews p {
+        #testamonials p {
             padding-top: 30px;
         }
 

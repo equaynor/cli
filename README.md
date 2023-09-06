@@ -112,11 +112,21 @@ In the future,
   No errors were found when passing through the official [(Jigsaw) validator](./assets/images/readme-images/css-validator-result.png)
   
 * **Accessibility**
-  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](./assets/readme-assets/site_accessibility.PNG)
+  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](./assets/images/readme-images/site-accessibility.png)
 
 ### Bugs
 * **Solved bugs**
- 
+- The navigation bar wasn't centered for tablet devices. Fixed by using flexbox properties in header <header {
+        display: flex;
+        justify-content: space-evenly;
+    }>
+- The About Me section image was overflowing and enabled horizontal scrolling. Fixed by correctly applying overflow properties <#about-image {
+            overflow: hidden;
+        }>
+- The testamonial picture no.3 wasn't scaling correctly on desktop. Fixed by applying width in px instead of % <#reviews img {
+            padding: 0;
+            width: 200px;
+        }>
   
   
 * **Unfixed Bugs**
