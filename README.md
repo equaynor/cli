@@ -12,6 +12,10 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
 - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
     - [A live demo to the website can be found here](#a-live-demo-to-the-website-can-be-found-here)
+  - [UX](#ux)
+  - [User stories](#user-stories)
+    - [Strategy](#strategy)
+    - [Scope](#scope)
   - [Technologies](#technologies)
   - [Features](#features)
     - [Existing Features](#existing-features)
@@ -30,6 +34,28 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
 ![Website look on different devices](./assets/readme-assets/device-look.png)
 
 ### A live demo to the website can be found [here](https://equaynor.github.io/root-rise/)
+
+## UX
+Ther user group targeted by this website are people of color with an interest in yoga.
+The site is focused on simplicity and ease of navigation for the user's main focus areas on the topic at hand.
+
+## User stories
+As this website is meant for my wife, the purpose is to create an online presence and enable her to showcase expertise and services offered.
+The following points are applicable to the users:
+
+- As a user, I want to understand the purpose of this website quickly and easily.
+- As a user, I want to easily navigate this website (by using a mouse, a keyboard, or a touch screen).
+- As a user, I want to find general information on the topic.
+- As a user, I want to know what differenciates this yoga practise from others.
+- As a user, I want to get to know the yoga teacher.
+- As a user, I want to see when classes are available.
+- As a user, I want a way to contact this yoga teacher.
+
+### Strategy
+The goal is to make a well-functioning professional Kemetic Yoga website. The focus was on making the design both user-friendly, inviting and creative.
+
+### Scope
+For the users, I wanted a simple first version of the website allowing them to get familiar with the yoga practice and the teacher.
 
 ## Technologies
 1. HTML - To create a basic site
