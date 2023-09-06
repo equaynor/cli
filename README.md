@@ -116,17 +116,9 @@ In the future,
 
 ### Bugs
 * **Solved bugs**
-- The navigation bar wasn't centered for tablet devices. Fixed by using flexbox properties in header <header {
-        display: flex;
-        justify-content: space-evenly;
-    }>
-- The About Me section image was overflowing and enabled horizontal scrolling. Fixed by correctly applying overflow properties <#about-image {
-            overflow: hidden;
-        }>
-- The testamonial picture no.3 wasn't scaling correctly on desktop. Fixed by applying width in px instead of % <#reviews img {
-            padding: 0;
-            width: 200px;
-        }>
+- The navigation bar wasn't centered for tablet devices. Fixed by using flexbox properties in header.
+- The About Me section image was overflowing and enabled horizontal scrolling. Fixed by correctly applying overflow properties.
+- The testamonial picture no.3 wasn't scaling correctly on desktop. Fixed by applying width in px instead of %.
   
   
 * **Unfixed Bugs**
