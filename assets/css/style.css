@@ -237,7 +237,7 @@ td {
     margin-bottom: 30px;
 }
 
-#about-me-text p {
+.about-me-text p {
     padding: 20px 0 0;
 }
 
@@ -295,7 +295,7 @@ footer {
     color: #F2EDDB;
 }
 
-#social-networks {
+.social-networks {
     text-align: center;
     padding: 20px 0;
     display: flex;
@@ -303,7 +303,7 @@ footer {
     list-style-type: none;
 }
 
-#social-networks i {
+.social-networks i {
     font-size: 160%;
     padding: 5%;
     color: #ffffff;
@@ -501,11 +501,11 @@ footer {
             flex-direction: row;
         }
 
-        #about-image {
+        .about-me-image {
             overflow: hidden;
         }
 
-        #about-me-text {
+        .about-me-text {
             order: -1;
             align-self: center;
         }
