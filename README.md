@@ -27,7 +27,7 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
 
 ## Demo
 
-![Website look on different devices](./assets/images/readme-images/device-look.png)
+![Website look on different devices](./assets/readme-assets/device-look.png)
 
 ### A live demo to the website can be found [here](https://equaynor.github.io/root-rise/)
 
@@ -45,48 +45,48 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
   * The font color is in contrast with the navigation background color. The hover effect is used for navigation, so the user can know which page they are on. 
   * The navigation bar turns into a burger menu on mobile devices for a better user experience.
 
-![Nav Bar Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/navbar-desktop.png)
+![Nav Bar Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/navbar-desktop.png)
 
 * **Hero Image**
   * The landing includes a photograph with text overlay to allow the user to see exactly what the website is about.
   * This section introduces the user to RootnRise with an eye catching animation to grab their attention.
 
-![Hero Image Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/hero-section-desktop.png)
+![Hero Image Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/hero-section-desktop.png)
 
 * **Kemetic Yoga**
   * This section features four key information points highlighting the benefits of Kemetic Yoga and why the user should engage.
   * Each point is highlighted by an resonating icon.
   * Following is a video to give more background information.
 
-![Kemetic Yoga Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/kemetic-yoga-section-desktop.png)
+![Kemetic Yoga Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/kemetic-yoga-section-desktop.png)
 
   * **Classes**
   * Shows a table of weekdays and times.
 
-![Classes Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/classes-section-desktop.png)
+![Classes Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/classes-section-desktop.png)
 
  * **About Me**
  * Provides an image of the Yoga Teacher Tasha Quaynor.
  * Image is intentionally moves slightly our of frame on desktop devices to create an even more engaging design.
  * Gives a brief introduction as to who she is to build trust.
 
-![About Me Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/about-me-section-desktop.png)
+![About Me Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/about-me-section-desktop.png)
 
 * **Testamonials**
 * Shows 3 different images of happy customers/members and what they had so say about their experience.
 * Uses the concept of social proof the build more trust.
 
-![Testamonials Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/reviews-section-desktop.png)
+![Testamonials Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/reviews-section-desktop.png)
 
 * **Join**
 * This allows the user to get in touch and also choose a preferred class.
 
-![Join Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/join-section-desktop.png)
+![Join Section Desktop](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/join-section-desktop.png)
 
 * **Footer**
 * Includes the (dummy) social media links of RootnRise so users can engage on different channels.
 
-![Footer](https://github.com/equaynor/root-rise/blob/main/assets/images/readme-images/footer.png)
+![Footer](https://github.com/equaynor/root-rise/blob/main/assets/readme-assets/footer.png)
 
 ### Features Left to Implement
 In the future,
@@ -106,13 +106,13 @@ In the future,
 
 ### Validator Testing
 * **HTML**
-  No errors were returned when passing through the official [W3C validator](./assets/images/readme-images/html-validator-result.png)
+  No errors were returned when passing through the official [W3C validator](./assets/readme-assets/html-validator-result.png)
 
 * **CSS**
-  No errors were found when passing through the official [(Jigsaw) validator](./assets/images/readme-images/css-validator-result.png)
+  No errors were found when passing through the official [(Jigsaw) validator](./assets/readme-assets/css-validator-result.png)
   
 * **Accessibility**
-  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](./assets/images/readme-images/site-accessibility.png)
+  I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](./assets/readme-assets/site-accessibility.png)
 
 ### Bugs
 * **Solved bugs**
