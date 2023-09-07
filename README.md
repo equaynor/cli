@@ -16,6 +16,8 @@ For the bipoc community it offers the chance to touch upon to their ancestral wi
   - [User stories](#user-stories)
     - [Strategy](#strategy)
     - [Scope](#scope)
+    - [Skeleton](#skeleton)
+    - [Surface](#surface)
   - [Technologies](#technologies)
   - [Features](#features)
     - [Existing Features](#existing-features)
@@ -56,6 +58,30 @@ The goal is to make a well-functioning professional Kemetic Yoga website. The fo
 
 ### Scope
 For the users, I wanted a simple first version of the website allowing them to get familiar with the yoga practice and the teacher.
+
+### Skeleton
+The website is designed to be clear and simple. And the site has a simple tree structure with hierarchical flows from top to bottom.
+
+**Website Sections:**
+
+1. **_Home / Landing page:_** A first peak at the topic.
+2. **_Kemetic Yoga:_** General information on Kemetic Yoga.
+3. **_Classes:_** Weekly dates for the online classes.
+4. **_About Me:_** Information on the yoga teacher.
+5. **_Testamonials:_** Testamonials of people who joined a class.
+6. **_Footer:_** Social media links and copywriting information.
+
+**Wireframe**
+The wireframe is designed using Balsamiq software. Initially the website was supposed to be more complex, i.e. including a feature section right below the hero image that turns into a navigation bar once the user scrolls past it. The wireframe was also designed to focus on each and every section as a single page and connect them using the navigation. Some other minor details like the position of the logo on the nav bar diverge from the final website simple due to my inexperience with Balsamiq.
+Under the guidance of my mentor, we decided to leave out more complex elements, comprise the content and use a single-page layout given the limited time left and the approaching deadline.
+
+My wireframe design in the [(pdf format)](./assets/readme-assets/wireframe.pdf)
+
+### Surface
+I have selected to go with a modern african inspired color scheme.
+
+[Color Scheme](./assets/readme-assets/color-scheme.png)
+
 
 ## Technologies
 1. HTML - To create a basic site
