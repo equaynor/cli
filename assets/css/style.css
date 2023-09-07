@@ -264,7 +264,8 @@ td {
 
 .text-input {
     background: transparent;
-    color: #fafafa;
+    color: #3a3a3a;
+    font-size: inherit;
     width: 80%;
     height: 25px;
     margin: 5px 0 20px 0;
